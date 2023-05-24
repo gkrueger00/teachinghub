@@ -30,6 +30,13 @@ Required Texts
 Standard Curriculum:
 ~~~~~~~~~~~~~~~~~~~~
 
+-  *Let's Talk*
+-  Common Reading Experience Text
+-  UM RhetLab modules
+
+*The Writer's Practice* Curriculum:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 -  *The Writer's Practice*
 -  Common Reading Experience Text
 -  UM RhetLab modules
